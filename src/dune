@@ -1,0 +1,7 @@
+(env
+ (dev
+  (flags
+   (:standard -warn-error -27))))
+
+(library
+  (public_name uutf))
